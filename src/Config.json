@@ -1,6 +1,7 @@
 {
-  "idmUrl": "http://localhost:12345/api",
+  "idmUrl": "http://0.0.0.0:12345/api",
   "idmEPs": {
-    "loginEP": "/idm/login"
+    "loginEP": "/idm/login",
+    "registerEP": "/idm/register"
   }
 }
